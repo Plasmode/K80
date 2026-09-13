@@ -14,12 +14,9 @@ K80W is similar to K80. It is a 22MHz Z80 SBC with KIO (Z84C90) as the I/O devic
 - Two 40-pin RC2014-compatible expansion slots,
 - 100mm X 100mm, 2-layer PC board,
 ### Design Files
-- Schematic
-
-- Gerber photoplots
-
-- CPLD design files
-
+- [Schematic](k80w_rev2_scm.pdf)
+- [Gerber photoplots](k80w_rev2_1_gerber.zip)
+- [CPLD design](k80w_r1pcb_cpld_epm7032s.zip) files
 - Bill of Materials
 
 ### RomWBW Configuration
