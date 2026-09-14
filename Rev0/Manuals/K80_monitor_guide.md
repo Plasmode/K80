@@ -4,7 +4,8 @@ K80Mon is the monitor program for K80. It resides in the EPROM, W27C512, and is 
 
 ### K80Mon commands
 
-K80Mon is a simple monitor with the following single-key commands. Except when noted, the commands may be entered in upper or lower cases. In the following description, command entered is in bold.
+K80Mon is a simple monitor with the following single-key commands. Except when noted, the commands may be entered in upper or lower cases. In the following description, command entered is in **bold**.
+
 **H**
 ```
 help
