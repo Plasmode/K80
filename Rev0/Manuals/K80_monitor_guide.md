@@ -73,6 +73,7 @@ Data NOT same as previous read
 carriage return for next sector, any other key for command prompt
 ```
 **D**
+
 display memory from 4 hexadecimal digits start address to 4 hexadecimal end address. If start address is greater than the end address, only 1 line (16 bytes) of data will be displayed.
 ```
 D 0400 0420
@@ -139,6 +140,7 @@ press Return to execute command
 Test memory from 0xC000 to 0xFFFE and from 0x0 to 0xAFFF. The memory is filled with unique test patterns generated from a seed value. The seed value is changed for each iteration of the test. Each completed iteration will display an 'OK' message. Any keystroke during the test with abort the test and return to command prompt.
 
 **E**
+
 Edit memory specified with the 4 hexadecimal digits value. Exit the edit session with 'X'
 ```
 E 0000
