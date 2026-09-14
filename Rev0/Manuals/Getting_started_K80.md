@@ -3,7 +3,7 @@ This is a quick start guide to get K80 power up and running
 
 ![annotated](../k80_rev0_topview_annotated.jpg)
 
-Setup hardware
+### Setup hardware
 Refer to above picture for various functions.
 
 K80 needs 5V@200mA via the 2.1mm X 5.5mm power jack
