@@ -2,8 +2,7 @@
 The order of assembly is based on the height of the components, the lowest components are soldered down first and the tallest last.
 
 Bare PC board, component side
-
-www.retrobrewcomputers.org_lib_plugins_ckgedit_fckeditor_userfiles_image_builderpages_plasmo_k80_pic_assembly_guide_k80_bare_pcb_comp.jpg
+![baretop](k80_rev0_bare_pcb_comp.jpg)
 
 Bare board, solder side
 
