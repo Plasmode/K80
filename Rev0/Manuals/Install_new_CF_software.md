@@ -37,4 +37,4 @@ This will load the compressed CP/M 2.2 distribution files. After cpm2.arj is loa
 This will decompress the CP/M 2.2 distribution files. The CF disk is now ready for use.
 
 **Video of creating a new CF disk**
-![video](Manuals/create_new_cf_disk_in_k80.mp4)
+![video](create_new_cf_disk_in_k80.mp4)
