@@ -34,9 +34,9 @@ Engineering changes. Rev0 pc board requires a number of engineering changes. Cli
 - [CP/M2.2 for K80](Software/k80_cpm22.zip). CP/M2.2 BDOS/CCP/BIOS
 
 ### Manuals
-- Getting started with K80
-- K80 Monitor guide
-- Installing software on a new CF for K80
+- [Getting started](Manuals/Getting_started_K80.md) with K80
+- [K80 Monitor guide](Manuals/K80_monitor_guide.md)
+- [Installing software](Manuals/Install_new_CF_software.md) on a new CF for K80
 - Pictorial Assembly Guide
 
-builderpages/plasmo/k80.txt
+
