@@ -2,7 +2,7 @@
 ### Introduction
 K80 is a traditional SBC design using a KIO (Z84C9012) and over-clocked to 22MHz. It also has 2 RC2014 40-pin expansion connectors.
 
-Winter 2022 update: K80 rev0 was designed in May 2019, the design has undergone changes in preparation for rev1 PCB update. The bulk of the changes dealt with the memory bank to emulate the logic of RC2014's 512K RAM/ROM board. This allows K80 to run the standard ROMWBW software with KIO. This is a dedicated page to describe the recent changes to K80.
+Winter 2022 update: K80 rev0 was designed in May 2019, the design has undergone changes in preparation for rev1 PCB update. The bulk of the changes dealt with the memory bank to emulate the logic of RC2014's 512K RAM/ROM board. This allows K80 to run the standard ROMWBW software with KIO. 
 
 Winter 2022 2nd update: With faster RAM and flash, K80 can run reliably at 29.49MHz. It can emulate RC2014Pro platform but running much faster.
 
@@ -22,13 +22,12 @@ Winter 2022 2nd update: With faster RAM and flash, K80 can run reliably at 29.49
 
 ![K80r0annotated](k80_rev0_topview_annotated.jpg)
 ### Design files
-- Schematic of K80
-- Gerber photoplots of K80
-- Altera EPM7064SLC44 design file
+- [Schematic](k80_rev0_scm.pdf) of K80
+- [Gerber photoplots](k80_cpld_1.zip) of K80
+- Altera [EPM7064SLC44 design file](k80_cpld_1.zip)
 
 Engineering changes. Rev0 pc board requires a number of engineering changes. Click on picture below to see the engineering changes under the KIO chip. All resistors are 4.7K
-
-www.retrobrewcomputers.org_lib_plugins_ckgedit_fckeditor_userfiles_image_builderpages_plasmo_k80_pic_assembly_guide_dsc_74761115.jpg
+![k80r0ec](K80_rev0_EC.jpg)
 
 ### Software
 - K80 Monitor. Hex file to be programmed in the W27C512.
