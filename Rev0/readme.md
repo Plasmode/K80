@@ -30,8 +30,8 @@ Engineering changes. Rev0 pc board requires a number of engineering changes. Cli
 ![k80r0ec](K80_rev0_EC.jpg)
 
 ### Software
-- K80 Monitor. Hex file to be programmed in the W27C512.
-- CP/M2.2 for K80. CP/M2.2 BDOS/CCP/BIOS
+- [K80 Monitor](Software/k80mon_rev_0_4.zip). Hex file to be programmed in the W27C512.
+- [CP/M2.2 for K80](Software/k80_cpm22.zip). CP/M2.2 BDOS/CCP/BIOS
 
 ### Manuals
 - Getting started with K80
