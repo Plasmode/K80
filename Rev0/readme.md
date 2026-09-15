@@ -37,6 +37,6 @@ Engineering changes. Rev0 pc board requires a number of engineering changes. Cli
 - [Getting started](Manuals/Getting_started_K80.md) with K80
 - [K80 Monitor guide](Manuals/K80_monitor_guide.md)
 - [Installing software](Manuals/Install_new_CF_software.md) on a new CF for K80
-- Pictorial Assembly Guide
+- [Pictorial Assembly Guide](Manuals/Assembly_guide.md)
 
 
