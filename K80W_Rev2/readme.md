@@ -26,7 +26,7 @@ SDENABLE .SET TRUE ; SD: ENABLE SD CARD DISK DRIVER (SD.ASM)
 SDMODE .SET SDMODE_PIO ; SD: DRIVER MODE: SDMODE_[JUHA|N8|CSIO|PPI|UART|DSD|MK4|SC|MT|PIO|Z80R|USR]
 
 
-This is the resulting RCZ80_K80W.ASM
+This is the resulting [RCZ80_K80W.ASM](Software/rcz80_rev2pcb_k80w_configuration.zip)
 
 The I/O addresses for SDMODE_PIO is hardwired to $69. It is necessary to modify SD.ASM in HBIOS as follow:
 
@@ -34,6 +34,6 @@ SD_IOBASE .EQU $82 ; IO BASE ADDRESS FOR SD INTERFACE
 
 SD_DDR .EQU $83 ; DATA DIRECTION REGISTER
 
-This is the resulting ROM binary file for SST39SF040 that recognizes SD card connected to PIO:
+This is the resulting [ROM binary file](Software/rcz80_k80w_rev2pcb_rom.zip) for SST39SF040 that recognizes SD card connected to PIO:
 
 
