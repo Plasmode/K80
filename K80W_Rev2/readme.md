@@ -1,6 +1,6 @@
 # K80W Rev2.1 a RomWBW capable Z80 SBC
 ### Introduction
-K80W is similar to K80. It is a 22MHz Z80 SBC with KIO (Z84C90) as the I/O device. It is designed to run RomWBW. The current version is rev 2.1 replacing the older K80W rev1.
+K80W is similar to K80. It is a 22MHz Z80 SBC with KIO (Z84C90) as the I/O device. It is designed to run RomWBW. The current version is rev 2.1 replacing the older [K80W rev1](../K80W_Rev1).
 ![annotated](k80W_rev2_topview_annotated.jpg)
 ### Features
 - Z80 overclocked to 22MHz,
