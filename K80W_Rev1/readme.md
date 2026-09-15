@@ -4,7 +4,7 @@
 
 K80W is similar to K80. It is a 22MHz Z80 SBC with KIO (Z84C90) as the I/O device. It is designed to run RomWBW
 
-www.retrobrewcomputers.org_lib_plugins_ckgedit_fckeditor_userfiles_image_builderpages_plasmo_k80_k80w_rev1_annotated.jpg
+![rev1top](k80w_rev1_annotated.jpg)
 
 ## Features
 - Z80 overclocked to 22MHz,
@@ -24,7 +24,7 @@ www.retrobrewcomputers.org_lib_plugins_ckgedit_fckeditor_userfiles_image_builder
 
 ## Software
 ### Adding SD to K80W
-www.retrobrewcomputers.org_lib_plugins_ckgedit_fckeditor_userfiles_image_builderpages_plasmo_k80_k80wwithsd.jpg
+![rev1SD](k80w_rev1_withsd.jpg)
 
   - PB0 to MOSI,
   - PB7 to MISO,
