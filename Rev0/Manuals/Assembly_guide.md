@@ -5,29 +5,22 @@ Bare PC board, component side
 ![baretop](k80_rev0_bare_pcb_comp.jpg)
 
 Bare board, solder side
-
-www.retrobrewcomputers.org_lib_plugins_ckgedit_fckeditor_userfiles_image_builderpages_plasmo_k80_pic_assembly_guide_k80_bare_pcb_solder.jpg
+![bareback](k80_rev0_bare_pcb_solder.jpg)
 
 Install the resistors first; the resistors are all 4.7K except R3 (indicated by a red arrow) which is 2.7K.
-
-www.retrobrewcomputers.org_lib_plugins_ckgedit_fckeditor_userfiles_image_builderpages_plasmo_k80_pic_assembly_guide_k80_resistor_comp.jpg
+![resistor](k80_rev0_resistor_comp.jpg)
 
 Install capacitors next; capacitor values are all 0.1uF except C12 and C13 (indicated by red arrows) which are 33pF.
-
-www.retrobrewcomputers.org_lib_plugins_ckgedit_fckeditor_userfiles_image_builderpages_plasmo_k80_pic_assembly_guide_k80_res_cap_comp.jpg
+![cap](k80_rev0_res_cap_comp.jpg)
 
 Install IC sockets.
-
-www.retrobrewcomputers.org_lib_plugins_ckgedit_fckeditor_userfiles_image_builderpages_plasmo_k80_pic_assembly_guide_k80_ic_sockets_res_cap_solder.jpg
+![sockets](k80_rev0_ic_sockets_res_cap_solder.jpg)
 
 Install PLCC sockets, observe the orientation of the sockets as indicated by the red arrows.
-
-www.retrobrewcomputers.org_lib_plugins_ckgedit_fckeditor_userfiles_image_builderpages_plasmo_k80_pic_assembly_guide_k80_plcc_ic_socket_res_cap.jpg
+![plcc](k80_rev0_plcc_ic_socket_res_cap.jpg)
 
 The completed board.
-
-www.retrobrewcomputers.org_lib_plugins_ckgedit_fckeditor_userfiles_image_builderpages_plasmo_k80_pic_assembly_guide_k80_all_assembled.jpg
+![alldone](k80_rev0_all_assembled.jpg)
 
 11/15/23. Engineering changes for KIO
-
-www.retrobrewcomputers.org_lib_plugins_ckgedit_fckeditor_userfiles_image_builderpages_plasmo_k80_pic_assembly_guide_dsc_74761115.jpg
+![EC](k80_rev0_with_EC.jpg)
